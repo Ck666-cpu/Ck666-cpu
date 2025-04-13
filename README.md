@@ -15,7 +15,7 @@ I'm a passionate Computer Science student who loves to code, learn, and build th
 
 ## 🛠️ Technologies & Languages I Use
 
-<div align="justify">
+<div align="center">
 
 ### 🌐 Frontend  
 <p>
