@@ -38,9 +38,10 @@ I'm a passionate Computer Science student who loves to code, learn, and build th
 
 ---
 
-FYP Idea: AI Chatbot with RAG (Retrieval-Augmented Generation)
+## 🎓 Final Year Project (FYP)
+AI Chatbot with RAG (Retrieval-Augmented Generation)
 Goal:
-Build an intelligent chatbot that can answer domain-specific questions (e.g., about university policies, courses, or documentation) by retrieving relevant information from a custom document base and generating natural responses.
+Build an intelligent chatbot that can answer domain-specific questions by retrieving relevant information from a custom document base and generating natural responses.
 
 > Want to see more? Check out my [pinned repositories](https://github.com/Ck666-cpu?tab=repositories)
 
