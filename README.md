@@ -9,7 +9,7 @@
 ## 🧠 About Me
 I'm a passionate Computer Science student who loves to code, learn, and build things that solve real-world problems. Whether it’s developing web apps, diving into AI models, or experimenting with smart contracts 
 - I am currently pursing my Degree in software Engineering Year 2.
-— I enjoy working across the stack and exploring new technologies.
+- I enjoy working across the stack and exploring new technologies.
 
 ---
 
