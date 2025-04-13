@@ -16,16 +16,29 @@ I'm a passionate Computer Science student who loves to code, learn, and build th
 ## 🛠️ Technologies & Languages I Use
 
 ### 🌐 Frontend
-- HTML • CSS • JavaScript
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
 ### 🖥️ Backend
-- Node.js • Python • Java • C++
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 ### 🗃️ Database
-- SQL Plus (Oracle SQL)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Plus-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQL Plus"/>
+</p>
 
 ### ⛓️ Blockchain
-- Solidity (Smart Contracts on Ethereum)
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+</p>
 
 ---
 
