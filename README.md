@@ -42,6 +42,12 @@ I'm a passionate Computer Science student who loves to code, learn, and build th
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 </p>
 
+### 🧠 Concepts & Skills
+- Software Process Models (Waterfall, Agile, RAD)
+- Database Design & Normalization
+- Network Design & Subnetting
+- User Interface Design (Schneiderman's 8 Rules)
+- Testing Strategies (unit, module, system, acceptance)
 </div>
 
 ---
@@ -52,7 +58,8 @@ I'm a passionate Computer Science student who loves to code, learn, and build th
 - 💻 Developing scalable backend systems (Node.js + SQL)
 - ⚡ Full-stack dApp development with Solidity & web3
 - 🎨 Clean UI/UX principles with responsive frontend design
-
+- 🤖 REST API integration across platforms
+  
 ---
 
 ## 🎓 Final Year Project (FYP)
@@ -69,6 +76,14 @@ Build an intelligent chatbot that can answer domain-specific questions by retrie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ck666-cpu&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api
+
+
+
+## 🤝 Let’s Connect!
+
+- 📫 **Email**: ChingKeat0310@gmail.com
+- 🐙 **GitHub**: [@Ck666-cpu](https://github.com/your-Ck666-cpu)
+<!--- 💼 **LinkedIn**: [linkedin.com/in/kaiyang](https://linkedin.com/in/)--!>
 
 <!--
 **Ck666-cpu/Ck666-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
