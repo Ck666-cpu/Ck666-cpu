@@ -75,15 +75,12 @@ Build an intelligent chatbot that can answer domain-specific questions by retrie
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ck666-cpu&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api
+
 
 
 
 
 ## 🤝 Let’s Connect!
-
-
-- 
 - 🐙 **GitHub**: [@Ck666-cpu](https://github.com/your-Ck666-cpu)
 <!--- 💼 **LinkedIn**: [linkedin.com/in/kaiyang](https://linkedin.com/in/)--!>
 
