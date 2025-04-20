@@ -82,7 +82,7 @@ Build an intelligent chatbot that can answer domain-specific questions by retrie
 
 ## 🤝 Let’s Connect!
 
-- 📫 **Email**: ChingKeat0310@gmail.com
+
 - 🐙 **GitHub**: [@Ck666-cpu](https://github.com/your-Ck666-cpu)
 <!--- 💼 **LinkedIn**: [linkedin.com/in/kaiyang](https://linkedin.com/in/)--!>
 
