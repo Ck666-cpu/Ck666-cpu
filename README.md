@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Ching Keat</h1>
 <p align="center">
-  👨‍💻 Computer Science in Software Engineering Student | 💡 AI Enthusiast | 🔗 Blockchain Curious | 🌐 Full-Stack Explorer
+  👨‍💻 Bachelor in Software Engineering Student | 💡 AI Enthusiast | 🔗 Blockchain Curious | 🌐 Full-Stack Explorer
 </p>
 
 ---
