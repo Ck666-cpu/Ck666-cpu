@@ -71,7 +71,6 @@ Build an intelligent chatbot that can answer domain-specific questions by retrie
 
 ---
 
-## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ck666-cpu&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
